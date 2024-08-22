@@ -1,0 +1,10 @@
+Object Name,X1,Y1,X2,Y2,Center X,Center Y,d,description
+Object 41,28,53,56,68,42.0,60.5,0,tracked object
+Object 40,28,106,52,129,40.0,117.5,0,tracked object
+Object 13,91,131,118,157,104.5,144.0,0,tracked object
+Object 27,111,51,140,75,125.5,63.0,0,tracked object
+Object 36,133,145,187,180,160.0,162.5,0,tracked object
+Object 43,170,94,193,117,181.5,105.5,0,tracked object
+Object 44,191,35,206,54,198.5,44.5,0,tracked object
+Object 46,224,166,240,180,232.0,173.0,0,new object
+Object 45,235,86,240,101,237.5,93.5,0,new object

@@ -1,0 +1,4 @@
+The original shapes_6dof dataset is proposed in [1]. based on data provided in [1], For the application of multi-object tracking, we have conducted semi-automatic annotation for each frame the dataset, which users can find under the directory 'images' and its subdirectories. We have also generated ground truth files in a format similar to the MOTChallenge: 'gt.txt', to facilitate the calculation of tracking accuracy. The 'event.txt' file is the event list file, where each line represents an event, denoted as "timestamp (in seconds) x y p", and the 'frame.txt' file specifies the start time for each frame of the image. 
+
+[1] E. Mueggler, H. Rebecq, G. Gallego, T. Delbruck, and D. Scaramuzza,“The event-camera dataset and simulator: Event-based data for pose
+estimation, visual odometry, and slam,” The International Journal of Robotics Research, vol. 36, no. 2, pp. 142–149, 2017.
