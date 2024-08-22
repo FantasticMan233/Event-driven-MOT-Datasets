@@ -11,7 +11,7 @@ For the application of multi-object tracking, we have conducted semi-automatic a
 [2] CelePixel SDK Reference, CelePixel Technology Co. Ltd., December 2019, document includes detailed API reference and version control
 information for CeleX-5 chipset. URL=https://github.com/CelePixel/CeleX5-MIPI
 
-Translation: Some large files have been compressed to meet the file size limit for pushing.
+Some large files have been compressed to meet the file size limit for pushing.
 
 
 
